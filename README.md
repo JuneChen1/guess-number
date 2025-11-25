@@ -9,3 +9,11 @@
 
 ### 執行範例
 <img width="299" height="315" alt="螢幕擷取畫面 2025-11-24 201128" src="https://github.com/user-attachments/assets/35d5d544-3b8b-4cae-8cfc-6b6f84845987" />
+
+<br>
+
+
+<br>
+
+### 文章說明
+[猜數字小遊戲](https://medium.com/@juneee/python-猜數字小遊戲-1a2b-514b6884be4a)
