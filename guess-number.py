@@ -3,6 +3,7 @@ import random
 pwdList = random.sample(range(0, 10), 4)
 A = 0
 B = 0
+count = 0
 
 while A != 4:
   num = input("請輸入四個數字：")
@@ -20,5 +21,7 @@ while A != 4:
         B += 1
   
   print("{}：{}A{}B".format(num, A, B))
+  count += 1
   
 print("恭喜猜對！密碼是：" + num)  
+print("猜題次數", count, "次", sep="")
