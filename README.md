@@ -8,7 +8,7 @@
 <br>
 
 ### 執行範例
-<img width="299" height="315" alt="螢幕擷取畫面 2025-11-24 201128" src="https://github.com/user-attachments/assets/35d5d544-3b8b-4cae-8cfc-6b6f84845987" />
+<img width="334" height="463" alt="螢幕擷取畫面 2025-12-19 203822" src="https://github.com/user-attachments/assets/89864ef2-ce66-4481-91a1-780d8097f743" />
 
 <br>
 
